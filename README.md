@@ -41,7 +41,7 @@ Here is the map of my current GitHub. I am still uploading some older scripts.
 * **Dart**
   * └── Udemy
     * ├── [MealsApp](https://github.com/JakubKret/MealsApp)
-    * ├── ExpenseTracker - To be uploaded
+    * ├── [ExpenseTracker](https://github.com/JakubKret/ExpenseTracker)
     * ├── FirstApp - To be uploaded
     * └── Basics - To be uploaded
 * **React**
