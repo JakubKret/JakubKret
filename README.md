@@ -42,8 +42,8 @@ Here is the map of my current GitHub. I am still uploading some older scripts.
   * └── Udemy
     * ├── [MealsApp](https://github.com/JakubKret/MealsApp)
     * ├── [ExpenseTracker](https://github.com/JakubKret/ExpenseTracker)
-    * ├── FirstApp - To be uploaded
-    * └── Basics - To be uploaded
+    * ├── [FirstApp](https://github.com/JakubKret/FirstApp)
+    * └── [Basics](https://github.com/JakubKret/AdvancedBasics)
 * **React**
   * └── Udemy
     * └── [JSRefresher](https://github.com/JakubKret/JSRefresher)
