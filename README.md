@@ -12,7 +12,9 @@ Here is the map of my current GitHub. I am still uploading some older scripts.
 * **C++**
   * ├── [LeetCode](https://github.com/JakubKret/LeetCodeCPP)
   * ├── University
-    * ├── [Projektowanie Efektywnych Algorytmów](https://github.com/JakubKret/ProjektowanieEfektywnychAlgorytmow)
+    * ├── Projektowanie Efektywnych Algorytmów
+      * ├── [PEA1]((https://github.com/JakubKret/ProjektowanieEfektywnychAlgorytmow))
+      * └── [PEA2](https://github.com/JakubKret/PEA2.git)
     * ├── SystemyOperacyjne
       * ├── [Dijkstra](https://github.com/JakubKret/DijkstraAlgorithm)
       * └── [DiningPhilosophers](https://github.com/JakubKret/DiningPhilosophers)
