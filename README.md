@@ -13,8 +13,8 @@ Here is the map of my current GitHub. I am still uploading some older scripts.
   * ├── [LeetCode](https://github.com/JakubKret/LeetCodeCPP)
   * ├── University
     * ├── Projektowanie Efektywnych Algorytmów
-      * ├── [PEA1](https://github.com/JakubKret/ProjektowanieEfektywnychAlgorytmow)
-      * └── [PEA2](https://github.com/JakubKret/PEA2.git)
+      * ├── [PEA1](https://github.com/JakubKret/ProjektowanieEfektywnychAlgorytmow) TSP
+      * └── [PEA2](https://github.com/JakubKret/PEA2.git) Branch and Bound
     * ├── SystemyOperacyjne
       * ├── [Dijkstra](https://github.com/JakubKret/DijkstraAlgorithm)
       * └── [DiningPhilosophers](https://github.com/JakubKret/DiningPhilosophers)
