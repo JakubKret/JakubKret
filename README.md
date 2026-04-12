@@ -31,6 +31,12 @@ Here is the map of my current GitHub. I am still uploading some older scripts.
     * ├── [QuizMaster](https://github.com/JakubKret/QuizMaster)
     * ├── [SnowBoarder](https://github.com/JakubKret/SnowBoarder)
     * └── [TileVania](https://github.com/JakubKret/TileVania)
+  * ├── Udemy3 - Unity3D course on 3D game development
+    * ├── Placeholder
+    * ├── Placeholder
+    * ├── Placeholder
+    * ├── Placeholder
+    * └── Placeholder
   * └── University - mostly .NET codes for working with external equipment
 * **Python**
   * ├── AI
