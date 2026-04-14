@@ -8,6 +8,7 @@ Here is the map of my current GitHub. I am still uploading some older scripts.
   * └── University
     * ├── [Plague](https://github.com/JakubKret/Plague) - Plague simulation with random terrain generation using noise 
     * ├── [CRUD Wynajem Mieszkan](https://github.com/JakubKret/DataBaseProject)
+    * ├── Projekt Zespolowy
     * └── [ElectionSimulation](https://github.com/JakubKret/ElectionSimulation)
 * **C++**
   * ├── [LeetCode](https://github.com/JakubKret/LeetCodeCPP)
