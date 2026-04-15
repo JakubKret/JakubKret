@@ -39,7 +39,7 @@ Here is the map of my current GitHub. I am still uploading some older scripts.
     * ├── Placeholder
     * └── Placeholder
   * ├── [VegeHeroes](https://github.com/JakubKret/VegeHeroes) - Really old Unity3D project
-  * └── University - mostly .NET codes for working with external equipment
+  * └── University - mostly .NET codes for working with external equipment (Urzadzenia Peryferyjne)
 * **Python**
   * ├── AI
     * ├── [MNISTRecognition](https://github.com/JakubKret/MNISTRecognition)
