@@ -1,6 +1,6 @@
 ## Hello, I'm Jakub, and this is my GitHub guide
 
-I am a 3rd year IT student on Wroclaw University of Science and Technology. One of those three years I spent at the Universidad de Malaga. I can speak in English, Spanish, Polish, and some basic German. I have been programming since primary school, and I have competed successfully in many competitions. Unfortunately, back then, I was not uploading anything to GitHub, and some time ago my hard drive died. Some codes can be recovered and uploaded here, and I am working on it. 
+I am a 3rd-year IT student at Wroclaw University of Science and Technology. One of those three years I spent at the Universidad de Malaga. I can speak in English, Spanish, Polish, and some basic German. I have been programming since primary school, and I have competed successfully in many competitions. Unfortunately, back then, I was not uploading anything to GitHub, and some time ago, my hard drive died. Some codes can be recovered and uploaded here, and I am working on it. 
 
 Here is the map of my current GitHub. I am still uploading some older scripts.
 
@@ -34,12 +34,12 @@ Here is the map of my current GitHub. I am still uploading some older scripts.
     * └── [TileVania](https://github.com/JakubKret/TileVania)
   * ├── Udemy3 - Unity3D course on 3D game development
     * ├── Placeholder
-    * ├── Placeholder
-    * ├── Placeholder
-    * ├── Placeholder
     * └── Placeholder
   * ├── [VegeHeroes](https://github.com/JakubKret/VegeHeroes) - Really old Unity3D project
-  * └── University - mostly .NET codes for working with external equipment (Urzadzenia Peryferyjne)
+  * └── University - mostly .NET codes for working with external equipment
+    * ├── [EAN13 Generator](https://github.com/JakubKret/EAN13Generator)
+    * ├── [Scanner App](https://github.com/JakubKret/ScannerApp)
+    * └── [Joystick Tester](https://github.com/JakubKret/JoystickTesterApp)
 * **Python**
   * ├── AI
     * ├── [MNISTRecognition](https://github.com/JakubKret/MNISTRecognition)
